@@ -1,0 +1,11 @@
+<h1>About this project </h1>
+
+This capstone project be about location data and different location data providers, such as Foursquare. </br>
+
+We will make RESTful API calls to the Foursquare API to retrieve data about venues in different neighborhoods around the world. </br>
+
+It will require to be creative in situations where data are not readily available by scraping web data and parsing HTML code. </br>
+
+Using Python and its pandas library to manipulate data will help me refine skills for exploring and analyzing data. </br>
+
+Finally, the Folium library will be used to great maps of geospatial data and to communicate the results and findings.
